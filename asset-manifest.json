@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.chunk.css",
+    "main.js": "./static/js/main.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.js",
+    "static/css/2.chunk.css": "./static/css/2.chunk.css",
+    "static/js/2.chunk.js": "./static/js/2.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.chunk.js.LICENSE.txt": "./static/js/2.chunk.js.LICENSE.txt",
+    "static/media/crh-logo-200.jpg": "./static/media/crh-logo-200.jpg",
+    "static/media/crh-logo.jpg": "./static/media/crh-logo.jpg",
+    "static/media/erc20.svg": "./static/media/erc20.svg",
+    "static/media/eth.svg": "./static/media/eth.svg",
+    "static/media/qrcode.jpg": "./static/media/qrcode.jpg",
+    "static/media/xdai.png": "./static/media/xdai.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.js",
+    "static/css/2.chunk.css",
+    "static/js/2.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
